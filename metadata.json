@@ -1,0 +1,6 @@
+{
+  "name": "Coastal Dream Villa - Luxury Beachfront Resort & Booking",
+  "description": "Website resmi Coastal Dream Villa mewah tepi pantai dengan sistem reservasi instan WhatsApp dan database spreadsheet mandiri untuk pemilik villa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

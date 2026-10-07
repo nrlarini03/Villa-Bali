@@ -1,0 +1,276 @@
+{
+  "villaConfig": {
+    "brandName": "Samudra Kirana",
+    "tagline": "Private Oceanfront Sanctuary & Luxury Coastal Escape",
+    "shortDescription": "Nikmati kemewahan tanpa batas di tepi pantai dengan pemandangan laut lepas, infinity pool pribadi, dan pelayanan butler bintang lima yang didedikasikan khusus untuk liburan impian Anda.",
+    "aboutStory": "Coastal Dream Villa dirancang sebagai tempat peristirahatan tropis eksklusif yang memadukan arsitektur kontemporer bernuansa alam dengan kenyamanan modern berstandar dunia. Terletak langsung di garis pantai pasir putih dengan panorama matahari terbenam yang memukau, villa kami menawarkan privasi total bagi Anda, keluarga, maupun pasangan yang mendambakan ketenangan sejati.",
+    "whatsappNumber": "085866558595",
+    "email": "reservation@coastaldreamvilla.com",
+    "address": "Jl. Pantai Karang Impian No. 88, Nusa Dua, Bali, Indonesia 80363",
+    "googleMapsUrl": "https://maps.google.com/?q=Nusa+Dua+Bali",
+    "heroImage": "/uploads/hero_banner_cfee585f03756a199c_1791333008196.jpg",
+    "heroSubtitle": "Eksklusif · Tepi Pantai · Kolam Renang Pribadi · Pelayanan Butler 24 Jam",
+    "checkInTime": "14:00 WITA",
+    "checkOutTime": "12:00 WITA",
+    "instagram": "@coastaldreamvilla",
+    "adminPassword": "admin123",
+    "googleSheetsUrl": ""
+  },
+  "rooms": [
+    {
+      "id": "room-1",
+      "name": "Presidential Oceanfront Master Suite",
+      "type": "Suite Utama Tepi Pantai",
+      "pricePerNight": 7500000,
+      "capacity": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "size": "120 m²",
+      "bed": "1 Super King Bed (200x200)",
+      "image": "/uploads/kamar_presidential_oceanfront__1791333076565.jpg",
+      "description": "Suite termewah dengan pemandangan laut 180 derajat langsung dari ranjang tidur. Dilengkapi bathtub marmer menghadap samudera, teras pribadi berjemur, walk-in closet, dan sound system premium.",
+      "features": [
+        "Akses langsung ke kolam infinity",
+        "Bathtub marmer dengan sea view",
+        "Mesin kopi espresso pribadi",
+        "High-speed Wi-Fi 200 Mbps",
+        "Layanan sarapan gourmet di teras",
+        "Smart TV 65 inci 4K OLED"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "room-2",
+      "name": "Sunset Panoramic Pool Villa (2 Kamar)",
+      "type": "Villa Pribadi Lengkap",
+      "pricePerNight": 12500000,
+      "capacity": 4,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "size": "260 m²",
+      "bed": "2 King Beds + Daybed",
+      "image": "/src/assets/images/villa_sunset_pool_1791329463871.jpg",
+      "description": "Villa mandiri 2 kamar tidur yang menghadap langsung titik matahari terbenam. Memiliki kolam renang infinity eksklusif sepanjang 14 meter, bale santai tropis, dan ruang makan alfresco outdoor.",
+      "features": [
+        "Private 14m Infinity Edge Pool",
+        "Gazebo / Bale santai senja",
+        "Dapur desainer siap saji",
+        "Personal Butler on-call 24 jam",
+        "Kamar mandi en-suite terbuka (indoor-outdoor)",
+        "Barbeque grill deck"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "room-3",
+      "name": "Royal Living Pavilion Suite",
+      "type": "Pavilion Mewah Keluarga",
+      "pricePerNight": 9800000,
+      "capacity": 6,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "size": "340 m²",
+      "bed": "2 King Beds + 2 Twin Beds",
+      "image": "/src/assets/images/villa_living_pavilion_1791329474512.jpg",
+      "description": "Pavilion berkonsep ruang terbuka yang megah dengan langit-langit tinggi kayu jati alami. Sangat cocok untuk liburan keluarga besar atau kumpul akrab dengan sirkulasi angin laut yang menyegarkan.",
+      "features": [
+        "Ruang keluarga luas berkonsep open-air",
+        "Meja makan kayu suar untuk 8 orang",
+        "Akses taman tropis & pantai",
+        "Kulkas anggur & bar racikan",
+        "Fasilitas hiburan keluarga",
+        "Amenities mandi organik aromaterapi"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "room-4",
+      "name": "Entire Estate Sanctuary (Seluruh Villa)",
+      "type": "Booking Eksklusif Seluruh Villa",
+      "pricePerNight": 28000000,
+      "capacity": 12,
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "size": "850 m²",
+      "bed": "5 King Beds + 2 Twin Beds",
+      "image": "/src/assets/images/coastal_villa_hero_1791329436122.jpg",
+      "description": "Pemesanan eksklusif seluruh kawasan Coastal Dream Villa untuk privasi 100% mutlak. Termasuk akses ke seluruh suite, fasilitas kolam renang, chef pribadi, dan staf butler lengkap.",
+      "features": [
+        "Privasi total seluruh area villa & pantai",
+        "Private Chef untuk sarapan, siang & malam",
+        "Mobil van mewah antar-jemput bandara PP",
+        "Sunset cocktail reception gratis",
+        "Fasilitas yoga & peralatan water sports",
+        "Keamanan 24 jam dengan staf privat"
+      ],
+      "isAvailable": true
+    }
+  ],
+  "facilities": [
+    {
+      "id": "fac-1",
+      "category": "Kolam & Pantai",
+      "name": "Private Infinity Edge Pool",
+      "description": "Kolam renang infinity air jernih dengan pemandangan horizon laut tanpa batas dan dek kayu berjemur.",
+      "icon": "Waves"
+    },
+    {
+      "id": "fac-2",
+      "category": "Kolam & Pantai",
+      "name": "Akses Langsung ke Pantai Pasir Putih",
+      "description": "Hanya 10 langkah dari pintu villa langsung menuju hamparan pasir putih bersih dan deburan ombak hangat.",
+      "icon": "Sun"
+    },
+    {
+      "id": "fac-3",
+      "category": "Layanan Pribadi",
+      "name": "Private Chef & Butler 24 Jam",
+      "description": "Chef profesional siap menghadirkan hidangan kuliner laut segar, menu internasional, atau masakan nusantara.",
+      "icon": "Utensils"
+    },
+    {
+      "id": "fac-4",
+      "category": "Layanan Pribadi",
+      "name": "Antar Jemput Bandara VIP",
+      "description": "Armada mobil mewah dengan supir pribadi siap menyambut kedatangan Anda dan mengantar kembali ke bandara.",
+      "icon": "Car"
+    },
+    {
+      "id": "fac-5",
+      "category": "Kenyamanan Modern",
+      "name": "Starlink High-Speed Wi-Fi",
+      "description": "Koneksi internet satelit ultra-cepat di seluruh sudut villa untuk kenyamanan hiburan maupun bekerja remote.",
+      "icon": "Wifi"
+    },
+    {
+      "id": "fac-6",
+      "category": "Kebugaran & Santai",
+      "name": "Spa & Wellness Pavilion",
+      "description": "Terapis spa profesional panggilan untuk pijat tradisional Bali, lulur rempah, dan sesi yoga saat matahari terbit.",
+      "icon": "Sparkles"
+    },
+    {
+      "id": "fac-7",
+      "category": "Kenyamanan Modern",
+      "name": "Floating Breakfast Eksklusif",
+      "description": "Pengalaman sarapan mewah mengapung di atas baki anyaman di kolam renang saat pagi cerah.",
+      "icon": "Coffee"
+    },
+    {
+      "id": "fac-8",
+      "category": "Layanan Pribadi",
+      "name": "Keamanan & Privasi Terjaga 24/7",
+      "description": "Sistem pengamanan modern dan staf penjaga villa yang ramah namun menjamin privasi tamu sepenuhnya.",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Pemandangan Villa & Kolam Infinity dari Atas",
+      "category": "Eksterior & Kolam",
+      "imageUrl": "/uploads/galeri_update_img2026100415572_1791333107975.jpg",
+      "caption": "Panorama luar biasa menghadap lautan biru jernih dengan pepohonan palem tropis."
+    },
+    {
+      "id": "gal-2",
+      "title": "Kamar Tidur Utama Menghadap Lautan",
+      "category": "Kamar Tidur",
+      "imageUrl": "/src/assets/images/villa_ocean_suite_1791329449477.jpg",
+      "caption": "Bangun di pagi hari dengan pemandangan ombak pantai dan cahaya alami yang menenangkan."
+    },
+    {
+      "id": "gal-3",
+      "title": "Suasana Sunset di Dek Kolam Renang",
+      "category": "Pemandangan Senja",
+      "imageUrl": "/src/assets/images/villa_sunset_pool_1791329463871.jpg",
+      "caption": "Momen magis matahari terbenam di horizon Samudera Hindia dengan warna langit lembayung."
+    },
+    {
+      "id": "gal-4",
+      "title": "Ruang Santai & Pavilion Keluarga Tropis",
+      "category": "Living & Dining",
+      "imageUrl": "/src/assets/images/villa_living_pavilion_1791329474512.jpg",
+      "caption": "Pavilion luas dengan desain arsitektur kayu jati dan pencahayaan hangat untuk berkumpul."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "author": "Dian Sastro & Keluarga",
+      "location": "Jakarta Selatan",
+      "stayDate": "Februari 2026",
+      "rating": 5,
+      "comment": "Pengalaman menginap paling tenang dan berkesan yang pernah kami rasakan. Pemandangan sunset dari kolam renangnya luar biasa, makanan buatan Chef sangat lezat, dan pelayanannya benar-benar personal!",
+      "room": "Sunset Panoramic Pool Villa"
+    },
+    {
+      "id": "test-2",
+      "author": "Marcus & Elena Vance",
+      "location": "Melbourne, Australia",
+      "stayDate": "Januari 2026",
+      "rating": 5,
+      "comment": "Truly an oceanfront paradise. Waking up to the gentle waves and having the floating breakfast served at our private pool was unforgettable. We have already rebooked for October!",
+      "room": "Presidential Oceanfront Master Suite"
+    },
+    {
+      "id": "test-3",
+      "author": "Reza Rahadian & Tim",
+      "location": "Bandung",
+      "stayDate": "Maret 2026",
+      "rating": 5,
+      "comment": "Tempat terbaik untuk melepas penat dari hiruk-pikuk kota. Desain villanya sangat artistik, bersih luar biasa, dan staf villa sangat sopan menghargai privasi kami.",
+      "room": "Entire Estate Sanctuary"
+    }
+  ],
+  "bookings": [
+    {
+      "guestName": "Arin",
+      "guestPhone": "085123147369",
+      "guestEmail": "",
+      "roomId": "room-1",
+      "roomName": "Presidential Oceanfront Master Suite",
+      "checkIn": "2026-10-08",
+      "checkOut": "2026-10-10",
+      "nights": 2,
+      "guests": 2,
+      "totalPrice": 15000000,
+      "notes": "Sediakan teqila 1 botol",
+      "id": "BK-2354",
+      "createdAt": "2026-10-07 07:37",
+      "status": "Dibatalkan"
+    },
+    {
+      "id": "BK-1001",
+      "guestName": "Budi Santoso",
+      "guestPhone": "6281298765432",
+      "guestEmail": "budi.santoso@gmail.com",
+      "roomId": "room-2",
+      "roomName": "Sunset Panoramic Pool Villa (2 Kamar)",
+      "checkIn": "2026-10-15",
+      "checkOut": "2026-10-18",
+      "nights": 3,
+      "guests": 4,
+      "totalPrice": 37500000,
+      "notes": "Mohon siapkan dekorasi hari ulang tahun pernikahan dan floating breakfast hari kedua.",
+      "createdAt": "2026-10-01 14:20",
+      "status": "Terkonfirmasi"
+    },
+    {
+      "id": "BK-1002",
+      "guestName": "Jessica Hartono",
+      "guestPhone": "6281122334455",
+      "guestEmail": "jessicah@yahoo.com",
+      "roomId": "room-1",
+      "roomName": "Presidential Oceanfront Master Suite",
+      "checkIn": "2026-11-05",
+      "checkOut": "2026-11-08",
+      "nights": 3,
+      "guests": 2,
+      "totalPrice": 22500000,
+      "notes": "Penjemputan di Bandara I Gusti Ngurah Rai pukul 13.00 WITA.",
+      "createdAt": "2026-10-04 09:45",
+      "status": "Menunggu Konfirmasi"
+    }
+  ]
+}
